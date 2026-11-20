@@ -1,0 +1,8 @@
+{
+  "name": "Krish Technology Solutions",
+  "description": "CCTV Camera Sales & Service, HD/IP Surveillance Systems, Automatic Sliding & Swing Gates, and Boom Barrier Solutions in Achunthanvayal, Ramanathapuram, Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
